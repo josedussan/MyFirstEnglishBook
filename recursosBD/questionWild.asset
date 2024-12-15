@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionWild
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 5861079316744949861, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: lion
+  - questionImage: {fileID: -4763000108176173870, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: tiger
+  - questionImage: {fileID: 3918253353019604264, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: giraffe
+  - questionImage: {fileID: -7168768001776314733, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: bear
+  - questionImage: {fileID: 6779603180141524262, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: butterfly
+  - questionImage: {fileID: -5031611957406384677, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: spider
+  - questionImage: {fileID: 7168062159949542207, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: fox
+  - questionImage: {fileID: -8765014300233456678, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: monkey
+  - questionImage: {fileID: -4883131076727860672, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: seal
+  - questionImage: {fileID: 6237485271119114930, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: dolphins
+  - questionImage: {fileID: -3669867269781211364, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: gorilla
+  - questionImage: {fileID: -367691287994084216, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: penguin
+  - questionImage: {fileID: 229697239797381354, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: zebra
+  - questionImage: {fileID: -8921316397816292162, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: elephant
+  - questionImage: {fileID: -2953513768218792833, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: crocodile
+  - questionImage: {fileID: 3353863521115447123, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: shark
+  - questionImage: {fileID: -5139338659391538955, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: kangaroo

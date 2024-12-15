@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionProfession
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -7879727920936022358, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: policeofficer
+  - questionImage: {fileID: -482307084399498227, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: accountant
+  - questionImage: {fileID: 7152384777824413184, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: engineer
+  - questionImage: {fileID: -4737175545633208889, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: driver
+  - questionImage: {fileID: -8932855790498442502, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: teacher
+  - questionImage: {fileID: -6281054211351338160, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: salesperson
+  - questionImage: {fileID: 5455589797551667027, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: lawyer
+  - questionImage: {fileID: -7531523096360388990, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: soccerplayer
+  - questionImage: {fileID: -269458222526341819, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: doctor
+  - questionImage: {fileID: -8771946057285883138, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: musician
+  - questionImage: {fileID: 2646281428079482210, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: plumber
+  - questionImage: {fileID: -6780465984152856856, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: secretary
+  - questionImage: {fileID: -6811225692965342018, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: mechanic
+  - questionImage: {fileID: -3421404918598729897, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: firefighter
+  - questionImage: {fileID: 744862173161883981, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: scientist
+  - questionImage: {fileID: 7433705518768550558, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: dentist

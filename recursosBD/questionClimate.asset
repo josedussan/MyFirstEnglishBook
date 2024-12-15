@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionClimate
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -1007196861509045266, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: cool
+  - questionImage: {fileID: 2477600949591573090, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: clear
+  - questionImage: {fileID: 4392432419017260777, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: rainy
+  - questionImage: {fileID: -3410199306367139641, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: snowing
+  - questionImage: {fileID: 7314653973279057945, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: stormy
+  - questionImage: {fileID: 3613071495186504591, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: cloudy
+  - questionImage: {fileID: -970657509818164228, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: warm
+  - questionImage: {fileID: 2437149251274412305, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: cold
+  - questionImage: {fileID: -3239132477549916669, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: windy
+  - questionImage: {fileID: -8332343148595639354, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: lightning
+  - questionImage: {fileID: 3892249320773547458, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: humid
+  - questionImage: {fileID: -8979792398071896354, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: hot
+  - questionImage: {fileID: 1169658976384389413, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: sunny

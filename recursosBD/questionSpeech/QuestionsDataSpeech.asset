@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: QuestionsDataSpeech
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 20c02f45d237e324099d81f2eafc87d8, type: 3}
+    answer: aight
+    answeralternative1: i
+    answeralternative2: eye
+  - questionImage: {fileID: 21300000, guid: 55dc2c5760aa41746b5088164faddd16, type: 3}
+    answer: o
+    answeralternative1: oh
+    answeralternative2: owe
+  - questionImage: {fileID: 21300000, guid: e0102e2a31678d14e8f554db814a607e, type: 3}
+    answer: a
+    answeralternative1: hey
+    answeralternative2: eh
+  - questionImage: {fileID: 21300000, guid: 133aa73507c563f4e8b8028cf3bb15c1, type: 3}
+    answer: u
+    answeralternative1: you
+    answeralternative2: you
+  - questionImage: {fileID: 21300000, guid: ae5a618421274194c815f654ac7c8c3b, type: 3}
+    answer: e
+    answeralternative1: he
+    answeralternative2: ii

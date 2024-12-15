@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionTransport
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -5437789702688073951, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: helicopter
+  - questionImage: {fileID: -6755638459329386338, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: car
+  - questionImage: {fileID: 823417329663232779, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: airplane
+  - questionImage: {fileID: 4759122563920176233, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: train
+  - questionImage: {fileID: -3890637916522215096, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: boat
+  - questionImage: {fileID: -8063931176296158375, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: truck
+  - questionImage: {fileID: 6375329290888846577, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: motorcycle
+  - questionImage: {fileID: 7944915839612654938, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: bus
+  - questionImage: {fileID: 2585088225749474760, guid: cdfdcc59f8aafd84baca5f360bec9216, type: 3}
+    answer: bike

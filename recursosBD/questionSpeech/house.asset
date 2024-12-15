@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: house
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -4180133813144430348, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: bathroom
+    answeralternative1: bath room
+    answeralternative2: buy from
+  - questionImage: {fileID: -7593705673533390780, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: bedroom
+    answeralternative1: bed room
+    answeralternative2: bet room
+  - questionImage: {fileID: 501643086208537530, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: dining room
+    answeralternative1: danny room
+    answeralternative2: daniel room
+  - questionImage: {fileID: 83203617696994478, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: livingroom
+    answeralternative1: living room
+    answeralternative2: leaving from
+  - questionImage: {fileID: -6493164066565655315, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: kitchen
+    answeralternative1: keaton
+    answeralternative2: keychain

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionFamily
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -6834977490403356563, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: sister
+  - questionImage: {fileID: 1168986168308937329, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: mother
+  - questionImage: {fileID: -8884601823165190088, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: brother
+  - questionImage: {fileID: -6738101428996555276, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: father
+  - questionImage: {fileID: -3388299787382154534, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: grandmother
+  - questionImage: {fileID: 6697977973767536776, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: grandfather
+  - questionImage: {fileID: -8767863681031395398, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: aunt
+  - questionImage: {fileID: 8094218250729851331, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: relatives
+  - questionImage: {fileID: -8884360957026700673, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: uncle
+  - questionImage: {fileID: 4632861721225887479, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: niece
+  - questionImage: {fileID: -3830451211311449901, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: nephew
+  - questionImage: {fileID: 8714679850209807605, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: cousin
+  - questionImage: {fileID: -8884601823165190088, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: grandson
+  - questionImage: {fileID: -6834977490403356563, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: granddaughter

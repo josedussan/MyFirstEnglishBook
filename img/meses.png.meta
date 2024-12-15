@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 409e87238aa2bb949a6b263ecffc2681
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5894783371731140655
+    second: meses_0
+  - first:
+      213: -8639417546810551561
+    second: meses_1
+  - first:
+      213: -5256639322718606919
+    second: meses_2
+  - first:
+      213: -7994327467011800238
+    second: meses_3
+  - first:
+      213: 6096880598608053684
+    second: meses_4
+  - first:
+      213: 8823140099099501861
+    second: meses_5
+  - first:
+      213: 4770895716249325316
+    second: meses_6
+  - first:
+      213: -255491314281386275
+    second: meses_7
+  - first:
+      213: 3249899402625693249
+    second: meses_8
+  - first:
+      213: 1401808779992246238
+    second: meses_9
+  - first:
+      213: -5069109796371835885
+    second: meses_10
+  - first:
+      213: -1311651180415088678
+    second: meses_11
+  - first:
+      213: 393531324657507531
+    second: meses_12
+  - first:
+      213: -2809233798447636771
+    second: meses_13
+  - first:
+      213: -6572849927364310206
+    second: meses_14
+  - first:
+      213: 6247474928435235171
+    second: meses_15
+  - first:
+      213: 7504551638329529603
+    second: meses_16
+  - first:
+      213: 4897918884599581693
+    second: meses_17
+  - first:
+      213: -5985440802518680893
+    second: meses_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meses_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200ae3ae3a7ec150800000000000000
+      internalID: 5894783371731140655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f29418c38f9a1880800000000000000
+      internalID: -8639417546810551561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e109036aac07b0800000000000000
+      internalID: -5256639322718606919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530d9646817e0190800000000000000
+      internalID: -7994327467011800238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5010e0a987c9450800000000000000
+      internalID: 6096880598608053684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a4525c27127a70800000000000000
+      internalID: 8823140099099501861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f497b6060a53240800000000000000
+      internalID: 4770895716249325316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6f09d000547cf0800000000000000
+      internalID: -255491314281386275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463249b946f91d20800000000000000
+      internalID: 3249899402625693249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7267688a9347310800000000000000
+      internalID: 1401808779992246238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ddcb5f77e6a9b0800000000000000
+      internalID: -5069109796371835885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7032a63341ccde0800000000000000
+      internalID: -1311651180415088678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc133e97aa167500800000000000000
+      internalID: 393531324657507531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dded1888eb89309d0800000000000000
+      internalID: -2809233798447636771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8f75c0db88c4a0800000000000000
+      internalID: -6572849927364310206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698a8cc85d73b650800000000000000
+      internalID: 6247474928435235171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305153944f5852860800000000000000
+      internalID: 7504551638329529603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb4c377647e8f340800000000000000
+      internalID: 4897918884599581693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meses_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0.75
+        width: 200
+        height: 200.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cabeb56d417feca0800000000000000
+      internalID: -5985440802518680893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6dd72cc42f94c5b46bc60109e0e73d1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

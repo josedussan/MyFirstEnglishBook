@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: climate
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 1169658976384389413, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: sunny
+    answeralternative1: sonny
+    answeralternative2: funny
+  - questionImage: {fileID: -8979792398071896354, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: clear
+    answeralternative1: clear
+    answeralternative2: greer
+  - questionImage: {fileID: 3892249320773547458, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: human
+    answeralternative1: humid
+    answeralternative2: you mean
+  - questionImage: {fileID: -8332343148595639354, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: lightning
+    answeralternative1: lightning
+    answeralternative2: lightening
+  - questionImage: {fileID: -3239132477549916669, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: windy
+    answeralternative1: wendy
+    answeralternative2: weenie
+  - questionImage: {fileID: 2437149251274412305, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: gold
+    answeralternative1: cold
+    answeralternative2: gold
+  - questionImage: {fileID: -970657509818164228, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: warm
+    answeralternative1: warm
+    answeralternative2: harm
+  - questionImage: {fileID: 3613071495186504591, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: cloudy
+    answeralternative1: cloudy
+    answeralternative2: bloody
+  - questionImage: {fileID: 7314653973279057945, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: stormy
+    answeralternative1: stormy
+    answeralternative2: stormy
+  - questionImage: {fileID: -3410199306367139641, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: snowing
+    answeralternative1: mowing
+    answeralternative2: a snowing
+  - questionImage: {fileID: 4392432419017260777, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: rainy
+    answeralternative1: ronnie
+    answeralternative2: right knee
+  - questionImage: {fileID: 2477600949591573090, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: hot
+    answeralternative1: hot
+    answeralternative2: hut
+  - questionImage: {fileID: -1007196861509045266, guid: 23fcef7602603104fb870fcf3f50db04, type: 3}
+    answer: cool
+    answeralternative1: goal
+    answeralternative2: google

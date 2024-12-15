@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: QuestionVegetables
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -9051100846552327761, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: tomato
+  - questionImage: {fileID: 5180442820827391154, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: onion
+  - questionImage: {fileID: 901124616619469773, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: corn
+  - questionImage: {fileID: 9153404356060106658, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: carrot
+  - questionImage: {fileID: 1624036220815746179, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: redpeppers
+  - questionImage: {fileID: 2155823789022675925, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: lettuce
+  - questionImage: {fileID: -8009317943142206397, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: garlic
+  - questionImage: {fileID: -1814993710922876559, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: cucmber
+  - questionImage: {fileID: -9086133981875679736, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: greenbeans
+  - questionImage: {fileID: 793823232435489645, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: redbeans
+  - questionImage: {fileID: -337184130608196627, guid: bca876d63d93f8b45b62de288dab918a, type: 3}
+    answer: broccoli

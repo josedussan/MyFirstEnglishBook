@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: partscomputer
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -2921671868723600849, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: mouse
+    answeralternative1: mouse
+    answeralternative2: mass
+  - questionImage: {fileID: 7713800235116560373, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: printer
+    answeralternative1: brainer
+    answeralternative2: breeder
+  - questionImage: {fileID: 1393780830698257749, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: screen
+    answeralternative1: green
+    answeralternative2: green
+  - questionImage: {fileID: 195070476649198678, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: keyboard
+    answeralternative1: he bored
+    answeralternative2: he board
+  - questionImage: {fileID: 6605116099775545779, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: headphones
+    answeralternative1: headphone
+    answeralternative2: headphones
+  - questionImage: {fileID: 8928163893960747108, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: speakers
+    answeralternative1: pecos
+    answeralternative2: speak cares
+  - questionImage: {fileID: 6013782306176509843, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: webcam
+    answeralternative1: web cam
+    answeralternative2: web come
+  - questionImage: {fileID: 796414230146013738, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: microphone
+    answeralternative1: my girl phone
+    answeralternative2: micro phone

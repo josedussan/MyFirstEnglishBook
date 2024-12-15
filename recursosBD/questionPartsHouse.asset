@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionPartsHouse
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 6937254819550733442, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: walls
+  - questionImage: {fileID: -7161966386281353747, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: door
+  - questionImage: {fileID: 273386440959943493, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: stair
+  - questionImage: {fileID: 2657388316744449548, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: window
+  - questionImage: {fileID: 7876883492357671550, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: garage
+  - questionImage: {fileID: 8770539928385043519, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: garden
+  - questionImage: {fileID: -3000533311606739206, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: house
+  - questionImage: {fileID: -6724858614128890277, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: roof

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: bedroom
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -3252819615028422063, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: bed
+    answeralternative1: bet
+    answeralternative2: bat
+  - questionImage: {fileID: 7165109968780803918, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: lamp
+    answeralternative1: ramp
+    answeralternative2: tramp
+  - questionImage: {fileID: -660371993348404739, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: night table
+    answeralternative1: not table
+    answeralternative2: not able
+  - questionImage: {fileID: -8074576206340401887, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: closet
+    answeralternative1: plus it
+    answeralternative2: protit
+  - questionImage: {fileID: -7564272866202493356, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: pillow
+    answeralternative1: be low
+    answeralternative2: below
+  - questionImage: {fileID: 2138225951273062577, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: mirror
+    answeralternative1: meter
+    answeralternative2: never
+  - questionImage: {fileID: -152628338374494601, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: blanket
+    answeralternative1: blank at
+    answeralternative2: blank it

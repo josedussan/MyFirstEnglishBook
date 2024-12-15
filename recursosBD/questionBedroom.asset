@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionBedroom
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -152628338374494601, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: blanket
+  - questionImage: {fileID: -3252819615028422063, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: bed
+  - questionImage: {fileID: 2138225951273062577, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: mirror
+  - questionImage: {fileID: 7165109968780803918, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: lamp
+  - questionImage: {fileID: -7564272866202493356, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: pillow
+  - questionImage: {fileID: -660371993348404739, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: nighttable
+  - questionImage: {fileID: -8074576206340401887, guid: 0f0bcb63a69ea68488349866446d6d46, type: 3}
+    answer: closet

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questioncomputer
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -3695044582159789, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: desktop
+  - questionImage: {fileID: 8565042185823739500, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: tablet
+  - questionImage: {fileID: -4817054713890370275, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: laptop
+  - questionImage: {fileID: -7288157633124983587, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: smartcellphon

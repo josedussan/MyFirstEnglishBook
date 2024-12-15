@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionKitchen
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 3019023516253985605, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: spoon
+  - questionImage: {fileID: -4153164023980754820, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: bowl
+  - questionImage: {fileID: 6136429522823102500, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: stove
+  - questionImage: {fileID: -1463189987920880832, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: napkin
+  - questionImage: {fileID: 858916849796539723, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: blender
+  - questionImage: {fileID: 4864966928183032712, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: cup
+  - questionImage: {fileID: -2854222355109681644, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: microwaveoven
+  - questionImage: {fileID: -3403138788697078396, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: fork
+  - questionImage: {fileID: 8548076239305250551, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: glass
+  - questionImage: {fileID: 7222898412261937365, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: knife
+  - questionImage: {fileID: -8559850460825179357, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: plate

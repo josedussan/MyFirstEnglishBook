@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: kitchen
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 6136429522823102500, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: stove
+    answeralternative1: love
+    answeralternative2: the of
+  - questionImage: {fileID: -39435195415108557, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: refrigerator
+    answeralternative1: refrigerator
+    answeralternative2: refrigerator
+  - questionImage: {fileID: -2854222355109681644, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: microwave
+    answeralternative1: michael dave
+    answeralternative2: michael 5
+  - questionImage: {fileID: 858916849796539723, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: blender
+    answeralternative1: lender
+    answeralternative2: bender
+  - questionImage: {fileID: 8548076239305250551, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: glass
+    answeralternative1: bless
+    answeralternative2: glass
+  - questionImage: {fileID: -8559850460825179357, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: plate
+    answeralternative1: late
+    answeralternative2: play 8
+  - questionImage: {fileID: 7222898412261937365, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: knife
+    answeralternative1: knife
+    answeralternative2: life
+  - questionImage: {fileID: -3403138788697078396, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: park
+    answeralternative1: fork
+    answeralternative2: pork
+  - questionImage: {fileID: 4864966928183032712, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: cup
+    answeralternative1: cop
+    answeralternative2: crap
+  - questionImage: {fileID: -1463189987920880832, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: napkin
+    answeralternative1: napkins
+    answeralternative2: napkin
+  - questionImage: {fileID: -4153164023980754820, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: bowl
+    answeralternative1: bowl
+    answeralternative2: bull
+  - questionImage: {fileID: 3019023516253985605, guid: 7241279d584fd4444ae973bb1d2e54fa, type: 3}
+    answer: spoon
+    answeralternative1: phone
+    answeralternative2: soon

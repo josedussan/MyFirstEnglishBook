@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: QuestionsClothes
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 1198012581851131444, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: sneakers
+  - questionImage: {fileID: 5512957057226035010, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: shirt
+  - questionImage: {fileID: -2852756361321732569, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: sweatsuit
+  - questionImage: {fileID: 5376398499068976950, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: t-shirt
+  - questionImage: {fileID: -6761790455467497207, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: underwear
+  - questionImage: {fileID: -3530963306889810128, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: poloshirt
+  - questionImage: {fileID: -1412236859834450033, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: hat
+  - questionImage: {fileID: 7579245482353814609, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: jeans
+  - questionImage: {fileID: -5946401311360202320, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: pajamas
+  - questionImage: {fileID: 2365025912833991636, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: tie
+  - questionImage: {fileID: 2725573020740034446, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: jacket
+  - questionImage: {fileID: -1809679731214854807, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: shorts
+  - questionImage: {fileID: -1625358170523631558, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: pants
+  - questionImage: {fileID: -2909128481383740779, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: skirt
+  - questionImage: {fileID: -4835131616829931826, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: dress
+  - questionImage: {fileID: 3138738373565018619, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: socks
+  - questionImage: {fileID: -2886522157928084200, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: belt
+  - questionImage: {fileID: 8753914694414109800, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: shoes
+  - questionImage: {fileID: 5118985806318113498, guid: e2a858a4046289b40a45a3a0f76eb4ce, type: 3}
+    answer: cap

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: time
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 8011006733316496180, guid: 294e610640725d540af3035bb32150e9, type: 3}
+    answer: hour
+    answeralternative1: our
+    answeralternative2: our
+  - questionImage: {fileID: 6147011698550181992, guid: 294e610640725d540af3035bb32150e9, type: 3}
+    answer: minutes
+    answeralternative1: minutes
+    answeralternative2: minutes
+  - questionImage: {fileID: -4952297594373351719, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: o'clock
+    answeralternative1: o'clock
+    answeralternative2: o'clock
+  - questionImage: {fileID: -3000925568764854529, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: 5 past
+    answeralternative1: five past
+    answeralternative2: 5 passed
+  - questionImage: {fileID: 832846419463239460, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: ten past
+    answeralternative1: 10 past
+    answeralternative2: 10 fast
+  - questionImage: {fileID: 6844888982425894324, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: quarter past
+    answeralternative1: carter past
+    answeralternative2: carter passed
+  - questionImage: {fileID: 8283019305185475896, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: 20 past
+    answeralternative1: 20 best
+    answeralternative2: 20 bust
+  - questionImage: {fileID: -2552545198739205881, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: 25 past
+    answeralternative1: 25 passed
+    answeralternative2: 25 fast
+  - questionImage: {fileID: -6321658626885299060, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: half past
+    answeralternative1: how fast
+    answeralternative2: half mast
+  - questionImage: {fileID: -434569251404124297, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: 25 to
+    answeralternative1: 25 too
+    answeralternative2: 25 to
+  - questionImage: {fileID: 4110855576277239899, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: five two
+    answeralternative1: 5 to
+    answeralternative2: 52
+  - questionImage: {fileID: 2095100509413117842, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: 10 to
+    answeralternative1: turn to
+    answeralternative2: ten to
+  - questionImage: {fileID: 8288412257335691022, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: quarter to
+    answeralternative1: carter to
+    answeralternative2: quarter to
+  - questionImage: {fileID: 3554670961231634547, guid: 98fb5af7d6fa4e246859c37afa223fb4, type: 3}
+    answer: hands
+    answeralternative1: hans
+    answeralternative2: heinz

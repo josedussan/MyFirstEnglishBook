@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: commands
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -2237602373460201753, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: thank you
+    answeralternative1: thank you
+    answeralternative2: think you
+  - questionImage: {fileID: -387861434597868065, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: stand up
+    answeralternative1: stand up
+    answeralternative2: send up
+  - questionImage: {fileID: 6037950733810471580, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: sit down
+    answeralternative1: seek down
+    answeralternative2: sick down
+  - questionImage: {fileID: 620290920471659284, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: raise your hand
+    answeralternative1: raise your head
+    answeralternative2: razor hand
+  - questionImage: {fileID: 1027664960838999170, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: open your book
+    answeralternative1: open your buck
+    answeralternative2: open your back
+  - questionImage: {fileID: -4228452980737608174, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: listen
+    answeralternative1: i listen
+    answeralternative2: lesson
+  - questionImage: {fileID: -2709623508671417919, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: be quiet
+    answeralternative1: big quiet
+    answeralternative2: b quiet
+  - questionImage: {fileID: -1274348565576496379, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: look up the bar
+    answeralternative1: look at the board
+    answeralternative2: look at the bar
+  - questionImage: {fileID: -9102837929357629416, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: good bye
+    answeralternative1: goodbye
+    answeralternative2: good by
+  - questionImage: {fileID: 8648187048835802903, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: hello
+    answeralternative1: hi
+    answeralternative2: hello
+  - questionImage: {fileID: -5457105467796717010, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: good night
+    answeralternative1: goodnight
+    answeralternative2: good nite
+  - questionImage: {fileID: -8461246177287171058, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: good afternoon
+    answeralternative1: goodafternoon
+    answeralternative2: good afternoon
+  - questionImage: {fileID: 9122047547180709245, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: good morning
+    answeralternative1: goodmorning
+    answeralternative2: good morning

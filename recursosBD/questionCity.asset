@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionCity
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 2037478769617737225, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: university
+  - questionImage: {fileID: 390917907714627259, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: hospital
+  - questionImage: {fileID: 1388114222749325708, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: museum
+  - questionImage: {fileID: -5628098609615000631, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: school
+  - questionImage: {fileID: 1555025567125700403, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: mall
+  - questionImage: {fileID: -1775139411298606012, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: policestation
+  - questionImage: {fileID: 2222238781838825100, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: library
+  - questionImage: {fileID: 1582172521679122611, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: church
+  - questionImage: {fileID: 6043033022797438587, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: park
+  - questionImage: {fileID: -247503545315881826, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: bank
+  - questionImage: {fileID: -7578667071841685579, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: buildings
+  - questionImage: {fileID: -6711257438880135771, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: supermarket
+  - questionImage: {fileID: 1765558638063209118, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: bakery
+  - questionImage: {fileID: -2422556254612392146, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: cinema
+  - questionImage: {fileID: 8934931864183038752, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: firestation
+  - questionImage: {fileID: 5833255530795486992, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: bookstore
+  - questionImage: {fileID: 2434099762344372977, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: restaurant

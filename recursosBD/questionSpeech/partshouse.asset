@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: partshouse
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -7161966386281353747, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: door
+    answeralternative1: door
+    answeralternative2: or
+  - questionImage: {fileID: 2657388316744449548, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: window
+    answeralternative1: we know
+    answeralternative2: when do
+  - questionImage: {fileID: 8770539928385043519, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: garden
+    answeralternative1: garmin
+    answeralternative2: garden
+  - questionImage: {fileID: -6724858614128890277, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: roof
+    answeralternative1: proof
+    answeralternative2: roof
+  - questionImage: {fileID: -3000533311606739206, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: house
+    answeralternative1: house
+    answeralternative2: house
+  - questionImage: {fileID: 7876883492357671550, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: garage
+    answeralternative1: garbage
+    answeralternative2: grudge
+  - questionImage: {fileID: 273386440959943493, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: stair
+    answeralternative1: stairs
+    answeralternative2: tears
+  - questionImage: {fileID: 6937254819550733442, guid: be1cf1606ca551d499036ebd3515580e, type: 3}
+    answer: wall
+    answeralternative1: walls
+    answeralternative2: well

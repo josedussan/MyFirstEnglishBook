@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: emotions
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -6112380624064645926, guid: e3e0353e09eb7264e83def0654ff925e, type: 3}
+    answer: surprise
+    answeralternative1: surprised
+    answeralternative2: set a prize
+  - questionImage: {fileID: -4710858948470321904, guid: e3e0353e09eb7264e83def0654ff925e, type: 3}
+    answer: angry
+    answeralternative1: and we
+    answeralternative2: angry
+  - questionImage: {fileID: -6011330544038211899, guid: e3e0353e09eb7264e83def0654ff925e, type: 3}
+    answer: hungry
+    answeralternative1: henry
+    answeralternative2: hungry
+  - questionImage: {fileID: -6255461593010983782, guid: e3e0353e09eb7264e83def0654ff925e, type: 3}
+    answer: happy
+    answeralternative1: hobby
+    answeralternative2: poppy
+  - questionImage: {fileID: 6047309851494278612, guid: e3e0353e09eb7264e83def0654ff925e, type: 3}
+    answer: side
+    answeralternative1: sad
+    answeralternative2: fired
+  - questionImage: {fileID: -2848088007318058735, guid: e3e0353e09eb7264e83def0654ff925e, type: 3}
+    answer: scared
+    answeralternative1: card
+    answeralternative2: guard

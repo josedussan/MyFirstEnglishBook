@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: QuestionFruits
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 7207882119082248946, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: apple
+  - questionImage: {fileID: -7817259731008224619, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: banana
+  - questionImage: {fileID: 8459430566571322924, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: orange
+  - questionImage: {fileID: 1251309877831849473, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: watermelon
+  - questionImage: {fileID: -3905682121003437408, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: grapes
+  - questionImage: {fileID: -7437742398462056877, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: lemon
+  - questionImage: {fileID: 1288344104372508942, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: kiwi
+  - questionImage: {fileID: 7926399269539078264, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: papaya
+  - questionImage: {fileID: -2290489026418888253, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: mango
+  - questionImage: {fileID: 9207172399211861186, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: strowberry
+  - questionImage: {fileID: 4592089221032965184, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: coconut
+  - questionImage: {fileID: -8850325730853000056, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: peach
+  - questionImage: {fileID: 8568432717185302205, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: cherry
+  - questionImage: {fileID: 2920479375005291679, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: pear

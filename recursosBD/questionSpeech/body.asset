@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: body
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -8238207311930925460, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: eye
+    answeralternative1: i
+    answeralternative2: hi
+  - questionImage: {fileID: 4004394502486728938, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: ear
+    answeralternative1: yeah
+    answeralternative2: here
+  - questionImage: {fileID: 5170923571141632267, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: nose
+    answeralternative1: knows
+    answeralternative2: lowes
+  - questionImage: {fileID: 1478553301488493224, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: shoulder
+    answeralternative1: shelter
+    answeralternative2: sure
+  - questionImage: {fileID: 3707869304734869728, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: hand
+    answeralternative1: and
+    answeralternative2: +
+  - questionImage: {fileID: 4988299623686018579, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: fruit
+    answeralternative1: foot
+    answeralternative2: put
+  - questionImage: {fileID: -2260352540398899874, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: heart
+    answeralternative1: hot
+    answeralternative2: part
+  - questionImage: {fileID: 7759556182981704751, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: stomach
+    answeralternative1: stuck
+    answeralternative2: stock
+  - questionImage: {fileID: -6706901346419673215, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: mouth
+    answeralternative1: mouths
+    answeralternative2: math
+  - questionImage: {fileID: 7306238424530573779, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: chest
+    answeralternative1: just
+    answeralternative2: chat
+  - questionImage: {fileID: 6126285352756777086, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: head
+    answeralternative1: had
+    answeralternative2: add
+  - questionImage: {fileID: 4362019184415291473, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: back
+    answeralternative1: back
+    answeralternative2: back
+  - questionImage: {fileID: 7645185821912866809, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: feet
+    answeralternative1: pete
+    answeralternative2: fit
+  - questionImage: {fileID: 8758196832544770113, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: arm
+    answeralternative1: im
+    answeralternative2: i am
+  - questionImage: {fileID: 6704598620175169544, guid: 5fe6a4fa4f4767d4d8c361e032376159, type: 3}
+    answer: legs
+    answeralternative1: lags
+    answeralternative2: legs

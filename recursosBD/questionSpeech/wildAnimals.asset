@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: wildAnimals
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 3353863521115447123, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: shark
+    answeralternative1: shock
+    answeralternative2: shocked
+  - questionImage: {fileID: -5139338659391538955, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: kangaroo
+    answeralternative1: call guru
+    answeralternative2: can you
+  - questionImage: {fileID: -2953513768218792833, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: crocodile
+    answeralternative1: call call dial
+    answeralternative2: call cole dial
+  - questionImage: {fileID: -8921316397816292162, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: elephant
+    answeralternative1: element
+    answeralternative2: ella point
+  - questionImage: {fileID: 229697239797381354, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: zebra
+    answeralternative1: sierra
+    answeralternative2: fever
+  - questionImage: {fileID: -367691287994084216, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: penguin
+    answeralternative1: penguin
+    answeralternative2: penguin
+  - questionImage: {fileID: -3669867269781211364, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: gorilla
+    answeralternative1: gorillas
+    answeralternative2: girl leela
+  - questionImage: {fileID: 6237485271119114930, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: dolphin
+    answeralternative1: devin
+    answeralternative2: devon
+  - questionImage: {fileID: -4883131076727860672, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: seal
+    answeralternative1: see all
+    answeralternative2: si all
+  - questionImage: {fileID: -5629562881348698020, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: hippopotamus
+    answeralternative1: hippopotamus
+    answeralternative2: hippopotamus
+  - questionImage: {fileID: -8765014300233456678, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: monkey
+    answeralternative1: monte
+    answeralternative2: money
+  - questionImage: {fileID: 7168062159949542207, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: fox
+    answeralternative1: f****
+    answeralternative2: fax
+  - questionImage: {fileID: -5031611957406384677, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: spider
+    answeralternative1: spyder
+    answeralternative2: cider
+  - questionImage: {fileID: 6779603180141524262, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: butterfly
+    answeralternative1: border fly
+    answeralternative2: butter fly
+  - questionImage: {fileID: -7168768001776314733, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: bear
+    answeralternative1: bare
+    answeralternative2: there
+  - questionImage: {fileID: 3918253353019604264, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: giraffe
+    answeralternative1: "you\xB4re off"
+    answeralternative2: your half
+  - questionImage: {fileID: -4763000108176173870, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: tiger
+    answeralternative1: kaiser
+    answeralternative2: tire
+  - questionImage: {fileID: 5861079316744949861, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: lion
+    answeralternative1: lyon
+    answeralternative2: leon

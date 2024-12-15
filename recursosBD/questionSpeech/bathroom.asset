@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: bathroom
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 4525019336786855117, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: toilet
+    answeralternative1: dial it
+    answeralternative2: talia late
+  - questionImage: {fileID: -4265092890159694523, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: toothbrush
+    answeralternative1: tooth brush
+    answeralternative2: both bash
+  - questionImage: {fileID: -1714022243020306531, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: to effaced
+    answeralternative1: tooth paste
+    answeralternative2: do effaced
+  - questionImage: {fileID: -718330248938688474, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: mirror
+    answeralternative1: meter
+    answeralternative2: never
+  - questionImage: {fileID: 5526131844853198987, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: dial
+    answeralternative1: that will
+    answeralternative2: towel
+  - questionImage: {fileID: 6218191392650223742, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: toilet paper
+    answeralternative1: toilet piper
+    answeralternative2: violet piper
+  - questionImage: {fileID: -5455676265346951083, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: shampoo
+    answeralternative1: sam poo
+    answeralternative2: come to
+  - questionImage: {fileID: -4638539771736507430, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: hair brush
+    answeralternative1: her brush
+    answeralternative2: herbrush
+  - questionImage: {fileID: 7003326108182752519, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: comb
+    answeralternative1: calm
+    answeralternative2: come
+  - questionImage: {fileID: 5720120022945993833, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: shower
+    answeralternative1: sour
+    answeralternative2: sour
+  - questionImage: {fileID: -1904998663634829159, guid: f7b3384c861f5dc43a833b777dab0179, type: 3}
+    answer: soap
+    answeralternative1: sup
+    answeralternative2: soap

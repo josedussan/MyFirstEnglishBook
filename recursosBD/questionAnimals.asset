@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionAnimals
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -3375333808137298234, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: duck
+  - questionImage: {fileID: 3216380388003172851, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: cat
+  - questionImage: {fileID: 776016612881122224, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: rabbit
+  - questionImage: {fileID: 8439290699953599070, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: cow
+  - questionImage: {fileID: 5951468045843279001, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: rooster
+  - questionImage: {fileID: 4763163789653486046, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: pig
+  - questionImage: {fileID: 7615775420738672632, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: hen
+  - questionImage: {fileID: 2780220483518024425, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: chicken
+  - questionImage: {fileID: 4962424409725467829, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: horse
+  - questionImage: {fileID: 1708255510644660977, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: dog
+  - questionImage: {fileID: -6638351872312028674, guid: fd54d186421ab834891397a6c8bcdd42, type: 3}
+    answer: donkey

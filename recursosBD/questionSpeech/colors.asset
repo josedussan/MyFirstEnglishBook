@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: colors
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 9145121185662897083, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: green
+    answeralternative1: green
+    answeralternative2: greene
+  - questionImage: {fileID: 750919005749352251, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: red
+    answeralternative1: read
+    answeralternative2: bread
+  - questionImage: {fileID: 5098578693334518563, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: pink
+    answeralternative1: think
+    answeralternative2: speak
+  - questionImage: {fileID: 2525734931044493268, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: orange
+    answeralternative1: orange
+    answeralternative2: or raj
+  - questionImage: {fileID: 6131005013634337843, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: black
+    answeralternative1: black
+    answeralternative2: bolck
+  - questionImage: {fileID: 5951453427522094576, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: cylinder
+    answeralternative1: cinder
+    answeralternative2: silver
+  - questionImage: {fileID: 1017209358076158572, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: blue
+    answeralternative1: blue
+    answeralternative2: blu
+  - questionImage: {fileID: 8452821863229810414, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: white
+    answeralternative1: ligth
+    answeralternative2: write
+  - questionImage: {fileID: -6587666846677427185, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: brown
+    answeralternative1: frown
+    answeralternative2: crown
+  - questionImage: {fileID: -1415999254825015589, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: gold
+    answeralternative1: god
+    answeralternative2: golf
+  - questionImage: {fileID: -4041902720696751032, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: skin
+    answeralternative1: screen
+    answeralternative2: scan
+  - questionImage: {fileID: -3981345940673405622, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: rate
+    answeralternative1: ray
+    answeralternative2: grey
+  - questionImage: {fileID: -8735074394549752507, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: yellow
+    answeralternative1: yeah low
+    answeralternative2: ya lo
+  - questionImage: {fileID: -3059335812807556136, guid: f3fcc08aabeb0f142bcde3e288742614, type: 3}
+    answer: purple
+    answeralternative1: careful
+    answeralternative2: powerball

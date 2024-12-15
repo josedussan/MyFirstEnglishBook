@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: QuestionWeek
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -5256639322718606919, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: wednesday
+  - questionImage: {fileID: -7994327467011800238, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: thursday
+  - questionImage: {fileID: 5894783371731140655, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: monday
+  - questionImage: {fileID: 6096880598608053684, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: friday
+  - questionImage: {fileID: -8639417546810551561, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: tuesday
+  - questionImage: {fileID: 4770895716249325316, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: sunday
+  - questionImage: {fileID: 8823140099099501861, guid: 409e87238aa2bb949a6b263ecffc2681, type: 3}
+    answer: saturday

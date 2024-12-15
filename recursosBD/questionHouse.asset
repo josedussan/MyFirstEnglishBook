@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionHouse
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 83203617696994478, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: livingroom
+  - questionImage: {fileID: -4180133813144430348, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: bathroom
+  - questionImage: {fileID: -7593705673533390780, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: bedroom
+  - questionImage: {fileID: -6493164066565655315, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: kitchen
+  - questionImage: {fileID: 501643086208537530, guid: 091f33a726d34c0419a0c040c4e2668e, type: 3}
+    answer: diningroom

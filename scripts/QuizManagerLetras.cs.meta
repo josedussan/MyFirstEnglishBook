@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3d5ab194b688bd45b88af97a0073e54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameComplete: {instanceID: 0}
+  - correctMessage: {instanceID: 0}
+  - questionDataScriptable: {instanceID: 0}
+  - questionImage: {instanceID: 0}
+  - correctImage: {instanceID: 0}
+  - asource: {instanceID: 0}
+  - soundcorrect: {fileID: 8300000, guid: 9d286eda38991f048bfe04539d78390a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

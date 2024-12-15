@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: solar
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 562542621136916546, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: earth
+    answeralternative1: error
+    answeralternative2: aaron
+  - questionImage: {fileID: 929832683670109760, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: mars
+    answeralternative1: murders
+    answeralternative2: mirrors
+  - questionImage: {fileID: -7960675721448052164, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: uranus
+    answeralternative1: uranus
+    answeralternative2: uranus
+  - questionImage: {fileID: -1045475547885609833, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: mercury
+    answeralternative1: mercury
+    answeralternative2: mary cutie
+  - questionImage: {fileID: -8574098368213049806, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: jupiter
+    answeralternative1: you better
+    answeralternative2: jupiter
+  - questionImage: {fileID: 1536557212555334754, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: saturn
+    answeralternative1: satin
+    answeralternative2: scion
+  - questionImage: {fileID: -1452268782143338249, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: song
+    answeralternative1: soon
+    answeralternative2: sun
+  - questionImage: {fileID: -6824666398079847072, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: venus
+    answeralternative1: penis
+    answeralternative2: be nice
+  - questionImage: {fileID: -94004199866341450, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: moom
+    answeralternative1: moon
+    answeralternative2: noon
+  - questionImage: {fileID: -1751517161668888505, guid: cb7f708a1b744ab4faf9fb7afd7effeb, type: 3}
+    answer: neptune
+    answeralternative1: napkin
+    answeralternative2: neptune

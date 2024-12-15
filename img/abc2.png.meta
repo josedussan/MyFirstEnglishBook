@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 511e2dcc92987254c9837af8172e49b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8942519384858392162
+    second: abc2_0
+  - first:
+      213: -3440826108725673640
+    second: abc2_1
+  - first:
+      213: -441861584166016322
+    second: abc2_2
+  - first:
+      213: 8738812241499001531
+    second: abc2_3
+  - first:
+      213: -3814775461613690546
+    second: abc2_4
+  - first:
+      213: -948409154816319848
+    second: abc2_5
+  - first:
+      213: 3266990655957604501
+    second: abc2_6
+  - first:
+      213: 4353215582576314582
+    second: abc2_7
+  - first:
+      213: 8097397371258196038
+    second: abc2_8
+  - first:
+      213: 7172746549350384161
+    second: abc2_9
+  - first:
+      213: -5266790891205614047
+    second: abc2_10
+  - first:
+      213: 4893315751400886603
+    second: abc2_11
+  - first:
+      213: 3891821056387704744
+    second: abc2_12
+  - first:
+      213: 831796631045878
+    second: abc2_13
+  - first:
+      213: -673395207600658923
+    second: abc2_14
+  - first:
+      213: -8643295741677669326
+    second: abc2_15
+  - first:
+      213: -8788318578143069237
+    second: abc2_16
+  - first:
+      213: 3023710403463603526
+    second: abc2_17
+  - first:
+      213: -3483695383894531958
+    second: abc2_18
+  - first:
+      213: -4187844781958777155
+    second: abc2_19
+  - first:
+      213: -4743041993897670764
+    second: abc2_20
+  - first:
+      213: -2405898687050225094
+    second: abc2_21
+  - first:
+      213: 9041972588539232656
+    second: abc2_22
+  - first:
+      213: 5990582589386752933
+    second: abc2_23
+  - first:
+      213: -6014652364396287823
+    second: abc2_24
+  - first:
+      213: 781300293631426388
+    second: abc2_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abc2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266778340063a1c70800000000000000
+      internalID: 8942519384858392162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 693
+        width: 200
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851448762eabf30d0800000000000000
+      internalID: -3440826108725673640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 693
+        width: 199
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa4e3fa313ed9f0800000000000000
+      internalID: -441861584166016322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 693
+        width: 200
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21265fe6f764970800000000000000
+      internalID: 8738812241499001531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 692
+        width: 198
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a3a0ede13f0bc0800000000000000
+      internalID: -3814775461613690546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 692
+        width: 199
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed17906e296d2f0800000000000000
+      internalID: -948409154816319848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 692
+        width: 202
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989fdc31bea65d20800000000000000
+      internalID: 3266990655957604501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 690
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8082e028ab96c30800000000000000
+      internalID: 4353215582576314582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 692
+        width: 200
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640d60fd10cbf5070800000000000000
+      internalID: 8097397371258196038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 198
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12240f9dbf6ba8360800000000000000
+      internalID: 7172746549350384161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262d6fc69998e6b0800000000000000
+      internalID: -5266790891205614047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 379
+        width: 201
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41d21000cc88e340800000000000000
+      internalID: 4893315751400886603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 376
+        width: 199
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ef5b81a6820630800000000000000
+      internalID: 3891821056387704744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 377
+        width: 200
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f608beb384f20000800000000000000
+      internalID: 831796631045878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 377
+        width: 198
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516238160ae97a6f0800000000000000
+      internalID: -673395207600658923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 379
+        width: 197
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f7ac2158dc0880800000000000000
+      internalID: -8643295741677669326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 355
+        width: 201
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbf0d0d0de990680800000000000000
+      internalID: -8788318578143069237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 379
+        width: 200
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e916779066f920800000000000000
+      internalID: 3023710403463603526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a806c49718d67afc0800000000000000
+      internalID: -3483695383894531958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 89
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6bfd4eb59c1e5c0800000000000000
+      internalID: -4187844781958777155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 89
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49708feaf645d2eb0800000000000000
+      internalID: -4743041993897670764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 89
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aeac024e78c9ed0800000000000000
+      internalID: -2405898687050225094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 89
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09143b0b92a8b7d70800000000000000
+      internalID: 9041972588539232656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 89
+        width: 200
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a389062023d22350800000000000000
+      internalID: 5990582589386752933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 89
+        width: 200
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b822b4aa89a78ca0800000000000000
+      internalID: -6014652364396287823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abc2_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 89
+        width: 200
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f3fc04a7cb7da00800000000000000
+      internalID: 781300293631426388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 79b3a4e1a65d0dd43afeab9e4f4fd54c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionSenses
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -3146764310012239868, guid: 4e932b88b68a9ea4e8c5805531f756b2, type: 3}
+    answer: hearing
+  - questionImage: {fileID: -5333256079640624637, guid: 4e932b88b68a9ea4e8c5805531f756b2, type: 3}
+    answer: touch
+  - questionImage: {fileID: 2529073755624567962, guid: 4e932b88b68a9ea4e8c5805531f756b2, type: 3}
+    answer: taste
+  - questionImage: {fileID: -2198069841732483739, guid: 4e932b88b68a9ea4e8c5805531f756b2, type: 3}
+    answer: smell
+  - questionImage: {fileID: 5517541939669379308, guid: 4e932b88b68a9ea4e8c5805531f756b2, type: 3}
+    answer: sight

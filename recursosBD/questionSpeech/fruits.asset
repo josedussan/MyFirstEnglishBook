@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: fruits
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -7817259731008224619, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: banana
+    answeralternative1: bandana
+    answeralternative2: buy nana
+  - questionImage: {fileID: 7207882119082248946, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: apple
+    answeralternative1: up all
+    answeralternative2: appalled
+  - questionImage: {fileID: 1251309877831849473, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: watermelon
+    answeralternative1: what are my loan
+    answeralternative2: what are my own
+  - questionImage: {fileID: 8459430566571322924, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: orange
+    answeralternative1: or ange
+    answeralternative2: oo orange
+  - questionImage: {fileID: -7437742398462056877, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: lemon
+    answeralternative1: lame on
+    answeralternative2: blame on
+  - questionImage: {fileID: -3905682121003437408, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: grapes
+    answeralternative1: grabs
+    answeralternative2: rates
+  - questionImage: {fileID: 7926399269539078264, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: papaya
+    answeralternative1: hoffa
+    answeralternative2: boba
+  - questionImage: {fileID: 1288344104372508942, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: kiwi
+    answeralternative1: do we
+    answeralternative2: ki we
+  - questionImage: {fileID: 9207172399211861186, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: strawberry
+    answeralternative1: a strawberry
+    answeralternative2: astro battery
+  - questionImage: {fileID: -2290489026418888253, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: mango
+    answeralternative1: man go
+    answeralternative2: mongo
+  - questionImage: {fileID: -8850325730853000056, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: peach
+    answeralternative1: beach
+    answeralternative2: speech
+  - questionImage: {fileID: 4592089221032965184, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: coconut
+    answeralternative1: call granite
+    answeralternative2: coco not
+  - questionImage: {fileID: 2920479375005291679, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: pear
+    answeralternative1: br
+    answeralternative2: beer
+  - questionImage: {fileID: 8568432717185302205, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: sherry
+    answeralternative1: cherry
+    answeralternative2: shari
+  - questionImage: {fileID: 6083171393453419632, guid: 2cc474da2500648409c11e00ec4708e0, type: 3}
+    answer: cantaloupe melon
+    answeralternative1: cantaloupe my loan
+    answeralternative2: cantaloupe malone

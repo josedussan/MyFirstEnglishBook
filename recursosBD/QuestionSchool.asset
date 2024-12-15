@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: QuestionSchool
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 7197599717770333715, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: pencil
+  - questionImage: {fileID: -8123454431003470207, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: eraser
+  - questionImage: {fileID: -1297164484232680510, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: pen
+  - questionImage: {fileID: 1129502705510920665, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: pencilcase
+  - questionImage: {fileID: 7005932528595898675, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: book
+  - questionImage: {fileID: -7097524282348234236, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: scissors
+  - questionImage: {fileID: 7947023613293552105, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: ruler
+  - questionImage: {fileID: 8046374721688190806, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: sharpener
+  - questionImage: {fileID: 7498224724847044867, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: schoolbag
+  - questionImage: {fileID: -7164143478157479952, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: notebook
+  - questionImage: {fileID: 270895859566285387, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: colors
+  - questionImage: {fileID: -6852598131354309422, guid: 0982e2e73db10db4d823065b5a887621, type: 3}
+    answer: glue

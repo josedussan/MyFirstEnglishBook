@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: city
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 390917907714627259, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: hospital
+    answeralternative1: hospital
+    answeralternative2: hospital
+  - questionImage: {fileID: -5628098609615000631, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: school
+    answeralternative1: at school
+    answeralternative2: cool
+  - questionImage: {fileID: -1775139411298606012, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: police station
+    answeralternative1: call lisa station
+    answeralternative2: call lisa station
+  - questionImage: {fileID: 1582172521679122611, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: church
+    answeralternative1: church
+    answeralternative2: search
+  - questionImage: {fileID: -247503545315881826, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: bank
+    answeralternative1: bank
+    answeralternative2: thank
+  - questionImage: {fileID: -6711257438880135771, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: supermarket
+    answeralternative1: supermarket
+    answeralternative2: super market
+  - questionImage: {fileID: -2422556254612392146, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: cinema
+    answeralternative1: cinema
+    answeralternative2: soon emma
+  - questionImage: {fileID: 5833255530795486992, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: bookstore
+    answeralternative1: bookstore
+    answeralternative2: book store
+  - questionImage: {fileID: 2434099762344372977, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: restautant
+    answeralternative1: restaurants
+    answeralternative2: restaurants
+  - questionImage: {fileID: 8934931864183038752, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: fire station
+    answeralternative1: fire station
+    answeralternative2: fire stationed
+  - questionImage: {fileID: 1765558638063209118, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: bakery
+    answeralternative1: bakery
+    answeralternative2: they curry
+  - questionImage: {fileID: -7578667071841685579, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: buildings
+    answeralternative1: bill veins
+    answeralternative2: billions
+  - questionImage: {fileID: 6043033022797438587, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: park
+    answeralternative1: park
+    answeralternative2: bark
+  - questionImage: {fileID: 2222238781838825100, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: library
+    answeralternative1: library
+    answeralternative2: library
+  - questionImage: {fileID: 1555025567125700403, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: mall
+    answeralternative1: mall
+    answeralternative2: mile
+  - questionImage: {fileID: 6220696079115465778, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: shopping center
+    answeralternative1: shopping centers
+    answeralternative2: shopping center is
+  - questionImage: {fileID: 1388114222749325708, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: museum
+    answeralternative1: museum
+    answeralternative2: nice home
+  - questionImage: {fileID: 2037478769617737225, guid: e7c6e38b4ca7f5146bc0638bffde1c56, type: 3}
+    answer: university
+    answeralternative1: university
+    answeralternative2: y university

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: food
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 1617990200310292299, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: rice
+    answeralternative1: rice
+    answeralternative2: price
+  - questionImage: {fileID: 8673145691375328288, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: pasta
+    answeralternative1: busta
+    answeralternative2: pasta
+  - questionImage: {fileID: 6919148212026094808, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: orange juice
+    answeralternative1: orange us
+    answeralternative2: are and juice
+  - questionImage: {fileID: -7409873783461179414, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: beef
+    answeralternative1: thief
+    answeralternative2: buff
+  - questionImage: {fileID: 2869396602440740226, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: egg
+    answeralternative1: ag
+    answeralternative2: egg
+  - questionImage: {fileID: -6136522545984246448, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: brad
+    answeralternative1: bread
+    answeralternative2: brad
+  - questionImage: {fileID: 3515327656468404917, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: cereal
+    answeralternative1: serial
+    answeralternative2: siri all
+  - questionImage: {fileID: -1355982845213127225, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: soup
+    answeralternative1: soap
+    answeralternative2: sup
+  - questionImage: {fileID: 2361852990064787506, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: fish
+    answeralternative1: fish
+    answeralternative2: leash
+  - questionImage: {fileID: -3215579717749292286, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: chicken
+    answeralternative1: chicken
+    answeralternative2: she can
+  - questionImage: {fileID: 4047054281454108438, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: milk
+    answeralternative1: milk
+    answeralternative2: milk
+  - questionImage: {fileID: -6642734062061952293, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: coffee
+    answeralternative1: coffee
+    answeralternative2: call fee
+  - questionImage: {fileID: 4553189784845575279, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: cheese
+    answeralternative1: cheese
+    answeralternative2: "she\xB4s"
+  - questionImage: {fileID: -1641439200619178912, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: cookie
+    answeralternative1: okie
+    answeralternative2: okee
+  - questionImage: {fileID: 3792810133463613874, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: salad
+    answeralternative1: solid
+    answeralternative2: salad
+  - questionImage: {fileID: 7873822068432405692, guid: b14a177b72632ab4389ebc0d0e16d6be, type: 3}
+    answer: park
+    answeralternative1: bark
+    answeralternative2: pork

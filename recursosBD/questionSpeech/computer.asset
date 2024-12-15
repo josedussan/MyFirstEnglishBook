@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: computer
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -3695044582159789, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: desktop computer
+    answeralternative1: text up computer
+    answeralternative2: text that computer
+  - questionImage: {fileID: 8565042185823739500, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: tablet computer
+    answeralternative1: tablet computer
+    answeralternative2: tavola computer
+  - questionImage: {fileID: -4817054713890370275, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: laptop
+    answeralternative1: lap top
+    answeralternative2: laptop
+  - questionImage: {fileID: -7288157633124983587, guid: 5c9e2695399e8d445bf5c5557a1cca87, type: 3}
+    answer: a smart cell phone
+    answeralternative1: smart cell phone
+    answeralternative2: as smart cell phone

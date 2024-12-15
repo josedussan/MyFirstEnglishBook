@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: profession
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 7152384777824413184, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: engineer
+    answeralternative1: angie near
+    answeralternative2: engine here
+  - questionImage: {fileID: -8932855790498442502, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: teacher
+    answeralternative1: feature
+    answeralternative2: peter
+  - questionImage: {fileID: 5455589797551667027, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: lowyer
+    answeralternative1: lower
+    answeralternative2: liar
+  - questionImage: {fileID: -269458222526341819, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: dr
+    answeralternative1: doctor
+    answeralternative2: dr.
+  - questionImage: {fileID: 2646281428079482210, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: plumber
+    answeralternative1: pummer
+    answeralternative2: climber
+  - questionImage: {fileID: -6811225692965342018, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: mechanic
+    answeralternative1: "mechanic\xB4s"
+    answeralternative2: mechanic
+  - questionImage: {fileID: 744862173161883981, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: scientist
+    answeralternative1: scientist
+    answeralternative2: scientist
+  - questionImage: {fileID: 7433705518768550558, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: dentist
+    answeralternative1: "don\xB4t eat"
+    answeralternative2: then test
+  - questionImage: {fileID: -7879727920936022358, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: police officer
+    answeralternative1: paul is officer
+    answeralternative2: police officer
+  - questionImage: {fileID: -3421404918598729897, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: firefighter
+    answeralternative1: fire fire
+    answeralternative2: fire fighter
+  - questionImage: {fileID: -6780465984152856856, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: secretary
+    answeralternative1: secretary
+    answeralternative2: secretary tea
+  - questionImage: {fileID: -8771946057285883138, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: musician
+    answeralternative1: musicians
+    answeralternative2: musicians
+  - questionImage: {fileID: -7531523096360388990, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: soccer player
+    answeralternative1: soccer player
+    answeralternative2: sucker player
+  - questionImage: {fileID: -6281054211351338160, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: sales person
+    answeralternative1: say yes person
+    answeralternative2: suspension
+  - questionImage: {fileID: -4737175545633208889, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: driver
+    answeralternative1: driver
+    answeralternative2: dr er
+  - questionImage: {fileID: -482307084399498227, guid: a4e6a5329e8daeb41aa9227710c10326, type: 3}
+    answer: accountant
+    answeralternative1: account aunt
+    answeralternative2: account on

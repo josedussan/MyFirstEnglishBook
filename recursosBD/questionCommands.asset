@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionCommands
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 9122047547180709245, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: goodmorning
+  - questionImage: {fileID: -8461246177287171058, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: goodafternoon
+  - questionImage: {fileID: -5457105467796717010, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: goodnight
+  - questionImage: {fileID: 8648187048835802903, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: hello
+  - questionImage: {fileID: -9102837929357629416, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: goodbye
+  - questionImage: {fileID: -2709623508671417919, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: bequiet
+  - questionImage: {fileID: -4228452980737608174, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: listen
+  - questionImage: {fileID: 1027664960838999170, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: openyourbook
+  - questionImage: {fileID: 6037950733810471580, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: sitdown
+  - questionImage: {fileID: -387861434597868065, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: standup
+  - questionImage: {fileID: -2237602373460201753, guid: 84217200924f3594eb01e90c35be1824, type: 3}
+    answer: thankyou

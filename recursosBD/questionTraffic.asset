@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5b4fe94be3f1e741adedaab957c1b05, type: 3}
+  m_Name: questionTraffic
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 4126649246661029101, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: turnright
+  - questionImage: {fileID: 3560522394275964084, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: turnleft
+  - questionImage: {fileID: -5839723739782686641, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: trafficlight
+  - questionImage: {fileID: 2648162552231585025, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: busstop
+  - questionImage: {fileID: 8120758195242120541, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: noparking
+  - questionImage: {fileID: 1483122872579893898, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: stop
+  - questionImage: {fileID: -7037808682618496507, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: crossingline
+  - questionImage: {fileID: -3095512677986113364, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: disabled
+  - questionImage: {fileID: -7733035565049892346, guid: fe25910f5d963a54d91663a0c5864f0f, type: 3}
+    answer: nouturn

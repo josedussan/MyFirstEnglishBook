@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba305f90112fe5642ab2372e8335b30f, type: 3}
+  m_Name: family
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 1168986168308937329, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: mother
+    answeralternative1: bother
+    answeralternative2: mather
+  - questionImage: {fileID: -6738101428996555276, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: father
+    answeralternative1: fire
+    answeralternative2: bother
+  - questionImage: {fileID: -8884601823165190088, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: brother
+    answeralternative1: browser
+    answeralternative2: bother
+  - questionImage: {fileID: -6834977490403356563, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: sister
+    answeralternative1: mr
+    answeralternative2: stir
+  - questionImage: {fileID: -3388299787382154534, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: grandmother
+    answeralternative1: yeah mother
+    answeralternative2: mother
+  - questionImage: {fileID: 6697977973767536776, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: grandfather
+    answeralternative1: father
+    answeralternative2: other
+  - questionImage: {fileID: 8094218250729851331, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: relative
+    answeralternative1: relieved
+    answeralternative2: valve
+  - questionImage: {fileID: -8884360957026700673, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: uncle
+    answeralternative1: ankle
+    answeralternative2: angle
+  - questionImage: {fileID: -8767863681031395398, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: aunt
+    answeralternative1: ant
+    answeralternative2: aunt
+  - questionImage: {fileID: -3830451211311449901, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: nephew
+    answeralternative1: in a few
+    answeralternative2: knife you
+  - questionImage: {fileID: 4632861721225887479, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: niece
+    answeralternative1: nice
+    answeralternative2: niice
+  - questionImage: {fileID: 8714679850209807605, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: cousin
+    answeralternative1: call scene
+    answeralternative2: call seen
+  - questionImage: {fileID: -8884601823165190088, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: grandson
+    answeralternative1: grants on
+    answeralternative2: grounds on
+  - questionImage: {fileID: -6834977490403356563, guid: f937e6c72f17cb145ab99e2956693d01, type: 3}
+    answer: granddaughter
+    answeralternative1: grand daughter
+    answeralternative2: ground daughter
